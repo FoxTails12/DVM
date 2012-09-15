@@ -1,0 +1,10 @@
+name: DVM
+version: 1.0
+description: This is a simple plugin for playing Dwarves vs. Monsters
+load: startup
+author: FoxTails12
+main: me.FoxTails12.dvm.DVM_Main
+commands:
+ Start:
+ Stop:
+ Monster:
